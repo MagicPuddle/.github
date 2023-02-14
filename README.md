@@ -1,2 +1,3 @@
-# .github
-MagicPuddle Github Profile 
+# :magic_wand:[MagicPuddle](https://magicpuddle.netlify.app/) - *.github*
+
+Github Profile
