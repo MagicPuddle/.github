@@ -1,3 +1,3 @@
 # :magic_wand:[MagicPuddle](https://magicpuddle.netlify.app/)
 
-MagicPuddle offers comprehensive managed technical solutions and expert support to individuals and organizations.
+MagicPuddle provides a comprehensive range of managed technical solutions and offers expert support services to both individuals and organizations.
