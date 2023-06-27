@@ -1,4 +1,4 @@
-![mp-banner](https://github.com/MagicPuddle/.github/assets/12519127/2ef99f0f-e3df-4af5-9980-d68bed86dd64)
+![mp-banner](https://github.com/MagicPuddle/media/blob/875e5e99f1e108c12e5da44c4e8a571af9ca7776/banner.png)
 
 # :magic_wand:[MagicPuddle](https://magicpuddle.netlify.app/)
 
