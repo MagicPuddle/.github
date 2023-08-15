@@ -28,7 +28,7 @@ Visit our official website: [MagicPuddle](https://magicpuddle.netlify.app/)
 
 ## :email: Contact Us
 
-Got questions or inquiries? Reach out to us at <contact@magicpuddle.net>.
+Got questions or inquiries? Reach out to us at <MagicPuddle@pm.me>.
 
 We're thrilled to embark on this technology-driven journey with you! :rocket:
 
